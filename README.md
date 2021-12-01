@@ -13,7 +13,7 @@
 </p>
 <p align='center'>
    <a href="https://wa.me/message/SJGWPAW7OHHXK1"><img height="30" src="https://c.top4top.io/p_1837yybbf0.jpeg"></a>&nbsp;&nbsp;
-   <a href="https://instagram.com/zeeoneofc"><img height="30" src="https://raw.githubusercontent.com/TobyG74/TobyG74/main/instagram.jpg"></a>
+   <a href="https://instagram.com/hyper.ganz1"><img height="30" src="https://raw.githubusercontent.com/TobyG74/TobyG74/main/instagram.jpg"></a>
 </p>
 
 -------
@@ -25,12 +25,12 @@ Check it yourself [Here](https://api-zeeoneofc.herokuapp.com)
 ## Cara Ganti ApiKey Gimana?
 Cara Mengganti Nya Cukup Gampang, Kalian Hanya Perlu Untuk Mengganti Syntax Di Bawah Ini
 ```js
-if(apikeyInput != 'MASUKKAN_NAMA_APIKEY') return res.json(loghandler.invalidKey)
+if(apikeyInput != 'HYPERAPI') return res.json(loghandler.invalidKey)
 ```
 Atau
 
 ```js
-if(apikey != 'MASUKAN_NAMA_APIKEY') return res.json(loghandler.invalidKey)
+if(apikey != 'HYPERAPI') return res.json(loghandler.invalidKey)
 ```
 <h1 align="center"> Cara Deploy Ada Di YouTube Saya
 <p align="center">
